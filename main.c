@@ -123,7 +123,7 @@ int main(int argc, char**argv)
         print_space(w.ws_col);
         putchar('\n');
 
-    }zz
+    }
 
 
 
