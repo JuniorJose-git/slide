@@ -1,8 +1,13 @@
-slide : main.c
-	gcc main.c -o slide
+CC ?= gcc
+DESTDIR ?= /usr/local/bin
 
-install :
-	cp slide /bin/slide
+.PHONY: install clean
 
-clean : 
-	sudo rm /bin/slide
+slide: main.c
+	$(CC) main.c -o slide
+
+install: slide
+	install slide $(DESTDIR)/slide
+
+clean: 
+	rm -f slide
