@@ -6,6 +6,7 @@ pkgdesc="Center text in the middle of the terminal."
 arch=('x86_64')
 url="https://github.com/Tecladin/slide"
 license=('GPL3')
+depends=('glibc')
 makedepends=('git')
 provides=("${pkgname%-git}")
 conflicts=("${pkgname%-git}")
