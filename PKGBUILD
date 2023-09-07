@@ -1,4 +1,4 @@
-# Maintainer: José Ronaldo <tecladin@dproton.me>
+# Maintainer: José Ronaldo <tecladin@proton.me>
 pkgname='slide-git' # '-bzr', '-git', '-hg' or '-svn'
 pkgver='r14.10480d8'
 pkgrel=1
