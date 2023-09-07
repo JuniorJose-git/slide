@@ -1,5 +1,5 @@
 # Maintainer: José Ronaldo <tecladin@proton.me>
-pkgname='slide-git' # '-bzr', '-git', '-hg' or '-svn'
+pkgname='slide-git'
 pkgver='r14.10480d8'
 pkgrel=1
 pkgdesc="Center text in the middle of the terminal."
