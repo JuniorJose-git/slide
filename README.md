@@ -5,5 +5,8 @@ center text in the middle of the terminal
 
 so a while ago I was trying learn C, and in process I wrote this
 
-the original idea comes from this video: https://youtu.be/JsbkLqOIDcI In the video the guy explains how to write a script in bash that acomplish the same goal as this one
+the original idea come from this video: https://youtu.be/JsbkLqOIDcI In the video the guy explains how to write a script in bash that acomplish the same goal as this one
 
+its also does per line centralization
+
+![slide image](./shorts/2.png)
