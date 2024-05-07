@@ -10,7 +10,6 @@ int print_space(int size)
     {
         putchar(' ');
     }
-
     return 0;
 }
 
