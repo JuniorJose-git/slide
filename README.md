@@ -3,10 +3,10 @@ center text in the middle of the terminal
 
 ![slide image](./shorts/1.png)
 
-so a while ago I was trying learn C, and in process I wrote this
+A while ago, I was trying to learn C, and as part of the process, I wrote this.
 
-the original idea come from this video: https://youtu.be/JsbkLqOIDcI In the video the guy explains how to write a script in bash that acomplish the same goal as this one
+The idea originally came from this video: https://youtu.be/JsbkLqOIDcI.In it, the creator explains how to write a Bash script that achieves the same goal as this program.
 
-its also does per line centralization
+This version also supports per-line text centering.
 
 ![slide image](./shorts/2.png)
